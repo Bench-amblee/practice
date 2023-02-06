@@ -1,3 +1,3 @@
-print ('project 1')
-print ('idea pending')
-print ('nothing so far')
+print ('Project 1')
+print ('Idea pending')
+print ('Nothing so far')
